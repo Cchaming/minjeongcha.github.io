@@ -23,6 +23,7 @@ url: "https://cchaming.github.io/minjeongcha.github.io/" # the base hostname & p
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
+
 # Build settings
 markdown: kramdown
 inter_post_navigation: false
