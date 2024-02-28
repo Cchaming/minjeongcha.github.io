@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cchaming.github.io/minjeongcha.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "C:\Users\habug\minjeongcha.github.io\cover image.jpeg"
+logo: "C:\Users\habug\minjeongcha.github.io\star.png"
 
 
 # Build settings
